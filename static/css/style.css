@@ -161,12 +161,14 @@ overflow-y: auto; /* Allows vertical scrolling */
 table#DynamicTable {
 width: 100%; /* Ensures the table fills the container */
 table-layout: fixed; /* Keeps the column widths fixed */
+cursor: pointer;
 }
 
 table#DynamicTable th, table#DynamicTable td {
 white-space: nowrap; /* Keeps content on a single line */
 overflow: hidden; /* Hides overflow */
 text-overflow: ellipsis; /* Adds an ellipsis to clipped text */
+cursor: pointer;
 }
 
 /* uiverse */

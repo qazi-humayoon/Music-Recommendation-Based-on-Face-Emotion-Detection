@@ -17,7 +17,6 @@ The Emotion-Music-Recommendation project utilizes real-time facial expression de
 ## Features
 - Real-time expression detection and song recommendations.
 - Playlists fetched from Spotify using the API.
-- Neumorphism UI for the website.
 
 ## Running the App
 **Flask:**
